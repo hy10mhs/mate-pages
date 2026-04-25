@@ -7,6 +7,7 @@ Mate 앱 관련 **정적 페이지**(GitHub Pages). App Store / Play Console에 
 | 경로 | 설명 |
 | --- | --- |
 | [docs/privacy-policy.html](docs/privacy-policy.html) | 개인정보 처리방침 (스토어에 넣을 주소는 아래 설정 후) |
+| [docs/account-deletion.html](docs/account-deletion.html) | 계정·데이터 **삭제 절차** (Google Play **데이터 보안** `계정 URL 삭제` 등) |
 
 ## GitHub Pages 설정
 
@@ -15,9 +16,10 @@ Mate 앱 관련 **정적 페이지**(GitHub Pages). App Store / Play Console에 
 3. Branch: **main** (또는 기본 브랜치), Folder: **/docs**
 4. 저장 후 몇 분 뒤 공개 URL 확인 (예: `https://<user>.github.io/mate-pages/`)
 
-**App Store Connect에 넣을 URL 예:**
+**App Store / Play 콘솔에 넣을 URL 예 (저장소·사용자명에 맞게 수정):**
 
-`https://<user>.github.io/mate-pages/privacy-policy.html`
+- 개인정보 처리방침: `https://<user>.github.io/mate-pages/privacy-policy.html`
+- 계정 삭제 안내: `https://<user>.github.io/mate-pages/account-deletion.html`
 
 (조직/사용자명과 저장소 이름에 맞게 바꿈.)
 
