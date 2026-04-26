@@ -8,6 +8,7 @@ Mate 앱 관련 **정적 페이지**(GitHub Pages). App Store / Play Console에 
 | --- | --- |
 | [docs/privacy-policy.html](docs/privacy-policy.html) | 개인정보 처리방침 (스토어에 넣을 주소는 아래 설정 후) |
 | [docs/account-deletion.html](docs/account-deletion.html) | 계정·데이터 **삭제 절차** (Google Play **데이터 보안** `계정 URL 삭제` 등) |
+| [docs/child-safety-standards.html](docs/child-safety-standards.html) | **아동 안전 표준** / CSAE (Play · 데이팅·소셜 `안전 표준 URL`) |
 
 ## GitHub Pages 설정
 
@@ -20,6 +21,7 @@ Mate 앱 관련 **정적 페이지**(GitHub Pages). App Store / Play Console에 
 
 - 개인정보 처리방침: `https://<user>.github.io/mate-pages/privacy-policy.html`
 - 계정 삭제 안내: `https://<user>.github.io/mate-pages/account-deletion.html`
+- 아동 안전(CSAE): `https://<user>.github.io/mate-pages/child-safety-standards.html`
 
 (조직/사용자명과 저장소 이름에 맞게 바꿈.)
 
